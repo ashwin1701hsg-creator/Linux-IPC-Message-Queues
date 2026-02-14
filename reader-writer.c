@@ -58,6 +58,7 @@ int main(int argc, char *argv[]) {
     } 
     else {
         printf("Invalid argument. Use writer or reader.\n");
+        
         return 1;
     }
     return 0;
