@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## C program that receives a message from message queue and display them
-
+```
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -85,11 +85,10 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
-
-
+```
 
 ## OUTPUT
-![WhatsApp Image 2026-02-14 at 10 59 22 AM](https://github.com/user-attachments/assets/221b6c47-5125-40b7-acda-4d6faee342a0)
+![alt text](image.png)
 
 
 
